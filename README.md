@@ -1,4 +1,4 @@
-# Phone Search App
+# Phone Search App(https://niks1503.github.io/Phone-Hunting-API/)
 
 This Phone Search App fetches and displays a list of phones from an external API based on user search input. Users can search for specific phones, view limited results initially, and expand to see all results. Each phone has a "Show Details" button for additional information in a popup window.
 
@@ -11,7 +11,7 @@ This Phone Search App fetches and displays a list of phones from an external API
 ## Technologies Used
 - **HTML** and **CSS**: For structuring and styling the UI.
 - **JavaScript**: For handling user interactions and data fetching.
-- **API**: Data fetched from [Programming Hero API](https://openapi.programming-hero.com/api/phones).
+- **API**: Data fetched from [Programming Hero API](https://openapi.programming-hero.com/api/phones?search=oppo).
 
 ## Setup and Usage
 
