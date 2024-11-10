@@ -1,6 +1,8 @@
-[# Phone Search App](https://niks1503.github.io/Phone-Hunting-API/)
+# Phone Search App
 
 This Phone Search App fetches and displays a list of phones from an external API based on user search input. Users can search for specific phones, view limited results initially, and expand to see all results. Each phone has a "Show Details" button for additional information in a popup window.
+
+[See Live Demo of the Project](https://niks1503.github.io/Phone-Hunting-API/)
 
 ## Features
 - **Phone Search**: Users can search for phones by name or keyword.
